@@ -18,7 +18,7 @@
 ![Monitor Image](./discordNFTMonitor.png)
 
 #### Some Selfmade NFT Projects
-These are just some self-made NFT projects I've done. c
+These are just some self-made NFT projects I've done. <br >
 [ScalarPlanets](https://solscan.io/collection/1af61b23a0889f43a3256a5573a9d38c0532beb24f63628acd14a9bde71318e0) <br >
 ![Scalar0 PNG](./scalar0.png)
 <br >
