@@ -1,3 +1,6 @@
+##
+This repository includes some projects I've done through personal employment that are unrelated to my academic work.
+
 ### Website Inventory Monitors
 [HibBet Monitor](./hibbetttest.js)
 - Spoofs real users using dynamic authourizations.
