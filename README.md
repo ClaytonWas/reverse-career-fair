@@ -21,6 +21,9 @@
 - In-depth animal AI included tiredness, hunger, thirst, and relative danger variables.
 <img src="./simulationterrain.png" alt="Simulation Terrain" width="300"/>
 
+[TypeRacer Websocket](https://github.com/ClaytonWas/TypeRacer-Websocket)
+- Web application to race against your friends and see who the faster typer is!
+<img src="./typeracer.png" alt="Typeracer" width="300"/>
 
 ### Website Inventory Monitors
 [HibBet Monitor](./hibbetttest.js)
