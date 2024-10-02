@@ -1,11 +1,11 @@
 ## Current Experience
-- Developing a MMO community driven video game using 3d environments.
-[Ducks](https://github.com/ClaytonWas/Ducks)
+[Ducks](https://github.com/ClaytonWas/Ducks) <br >
+- Developing a MMO community driven video game using 3d environments. <br >
 <img src="./duck3dmodel.png" alt="Duck 3D Model" width="100"/> <img src="./duckplayercard.png" alt="Duck Player Card" width="100"/> <img src="./mothplayercard.png" alt="Pet Player Card" width="100"/>
 <img src="./3dlevelsetup.png" alt="3D Test Environment" width="300"/>
 
+[WebappPhotoedits](https://github.com/ClaytonWas/WebappPhotoedits) <br >
 - Developing a WebApp for photo manipulation.
-[WebappPhotoedits](https://github.com/ClaytonWas/WebappPhotoedits)
 
 ## Previous Experience
 ### School Projects
