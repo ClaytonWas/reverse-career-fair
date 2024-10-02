@@ -9,7 +9,7 @@ const provider = new ethers.providers.JsonRpcProvider('https://base-mainnet.g.al
 // Discord bot token
 // const { Client, Intents } = require('discord.js');
 // const client = new Client({ intents: [Intents.FLAGS.GUILD_MESSAGES] });
-// const botToken = 'MTEwNTkwNzE3Njc1MDQ2OTIxMQ.G6kvJ0.ElCC1Ag6MMAlxrpaVuxl2oGLKQDR2Qn2NrRGMA';
+// const botToken = 'REDACTEDBOTTOKEN';
 // client.once('ready', () => {
 //   console.log('Discord bot ready.');
 // });
