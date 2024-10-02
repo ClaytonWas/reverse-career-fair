@@ -1,9 +1,7 @@
 ## Current Experience
 - Developing a MMO community driven video game using 3d environments.
 [Ducks](https://github.com/ClaytonWas/Ducks)
-<img src="./duck3dmodel.png" alt="Duck 3D Model" width="300"/>
-<img src="./duckplayercard.png" alt="Duck Player Card" width="300"/>
-<img src="./mothplayercard.png" alt="Pet Player Card" width="300"/>
+<img src="./duck3dmodel.png" alt="Duck 3D Model" width="100"/> <img src="./duckplayercard.png" alt="Duck Player Card" width="100"/> <img src="./mothplayercard.png" alt="Pet Player Card" width="100"/>
 <img src="./3dlevelsetup.png" alt="3D Test Environment" width="300"/>
 
 - Developing a WebApp for photo manipulation.
@@ -44,7 +42,7 @@ PS5 Checkout Bot
 
 [Rapid Base Wallet Monitor](./rapid-base-walletwatcher.js)
 - Node.js application that interacts with the Ethereum blockchain and a Discord bot.
-![Monitor Image](./discordNFTMonitor.png)
+<img src="./discordNFTMonitor.png" alt="Discord NFT Monitor" width="100"/>
 
 #### Some Selfmade NFT Projects
 These are just some self-made NFT projects I've done. <br >
@@ -53,4 +51,4 @@ These are just some self-made NFT projects I've done. <br >
 
 <br >
 GorKillaz <br >
-![GorKillaz GIF](./Gorkillaz.gif)
+<img src="./Gorkillaz.gif" alt="Gorkillaz GIF" width="300"/>
